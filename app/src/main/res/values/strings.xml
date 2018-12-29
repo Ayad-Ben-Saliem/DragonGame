@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ربط الصور بالكلمات</string>
+
+    <string name="axe">"فأس"</string>
+    <string name="bicycle">"دراجة"</string>
+    <string name="brush">"فرشاة"</string>
+    <string name="burj">"برج"</string>
+    <string name="comb">"مشط"</string>
+    <string name="cup">"فنجان"</string>
+    <string name="door">"باب"</string>
+    <string name="drum">"طبل"</string>
+    <string name="faces">"وجوه"</string>
+    <string name="palm">"نخلة"</string>
+    <string name="pillow">"وسادة"</string>
+    <string name="pond">"بحيرة"</string>
+    <string name="scissors">"مقص"</string>
+    <string name="sheet">"ورقة"</string>
+    <string name="star">"نجمة"</string>
+    <string name="trumpet">"بوق"</string>
+</resources>
